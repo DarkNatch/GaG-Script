@@ -1,7 +1,7 @@
 local Features = {
-    PetSpawner = "https://raw.githubusercontent.com/DarkNatch/GaG-Script/refs/heads/main/EggHatchingDetect.lua",
-    SeedSpawner = "https://raw.githubusercontent.com/DarkNatch/GaG-Script/refs/heads/main/PetSpawner.lua",
-    EggDetector = "https://raw.githubusercontent.com/YourUsername/Grow-a-Garden-Scripts/main/EggDetector.lua",
+    EggHatchingDetect = "https://raw.githubusercontent.com/DarkNatch/GaG-Script/refs/heads/main/EggHatchingDetect.lua",
+    PetSpawner = "https://raw.githubusercontent.com/DarkNatch/GaG-Script/refs/heads/main/PetSpawner.lua",
+    SeedSpawner = "https://raw.githubusercontent.com/DarkNatch/GaG-Script/refs/heads/main/SeedSpawner.lua",
     ServerManager = "https://raw.githubusercontent.com/YourUsername/Grow-a-Garden-Scripts/main/ServerManager.lua",
     LoadingScreen = "https://raw.githubusercontent.com/YourUsername/Grow-a-Garden-Scripts/main/LoadingScreen.lua"
 }
