@@ -3,7 +3,7 @@ local Features = {
     PetSpawner = "https://raw.githubusercontent.com/DarkNatch/GaG-Script/refs/heads/main/PetSpawner.lua",
     SeedSpawner = "https://raw.githubusercontent.com/DarkNatch/GaG-Script/refs/heads/main/SeedSpawner.lua",
     ServerManager = "https://raw.githubusercontent.com/DarkNatch/GaG-Script/refs/heads/main/ServerManager.lua",
-    LoadingScreen = "https://raw.githubusercontent.com/YourUsername/Grow-a-Garden-Scripts/main/LoadingScreen.lua"
+    LoadingScreen = "https://raw.githubusercontent.com/DarkNatch/GaG-Script/refs/heads/main/LoadingScreen.lua"
 }
 
 for name, url in pairs(Features) do
